@@ -206,7 +206,7 @@ header {
   font-size: 14px;
   font-weight: 500;
   color: var(--main-color);
-  padding-bottom: 1vh;
+  padding-bottom: 5px;
 }
 /* @media (max-width: 991px) {
   footer {
